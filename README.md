@@ -1,6 +1,6 @@
 # Small script to download CMIP6ng data
 
-This is a small script to download CMIP6ng data using a particular (grep) filter.
+This is a small script to download CMIP6ng data using a particular (grep) filter. Detailed data descriptions can be found on [Zenodo](https://zenodo.org/records/3734128).
 
 The focus will be on daily values of the below variables:
 
